@@ -1,5 +1,5 @@
 # Pomodoro Timer
-|This was a small, quick project I whipped up on the Arduino Nano to build a physical Pomodoro Timer [Wikipedia](https://en.wikipedia.org/wiki/Pomodoro_Technique) to increase my focus and just to do a fun little electronics project! | <img src=https://github.com/user-attachments/assets/e3aec559-6733-4e56-8947-ccb84cb1dfb6>|
+|This was a small, quick project I whipped up on the Arduino Nano to build a physical Pomodoro Timer [Wikipedia](https://en.wikipedia.org/wiki/Pomodoro_Technique) to increase my focus and just to do a fun little electronics project! | <img src=https://github.com/user-attachments/assets/e3aec559-6733-4e56-8947-ccb84cb1dfb6> |
 
 ## Parts Used
 
