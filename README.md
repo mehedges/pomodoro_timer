@@ -1,8 +1,7 @@
 # Pomodoro Timer
 This was a small, quick project I whipped up on the Arduino Nano to build a physical Pomodoro Timer (https://en.wikipedia.org/wiki/Pomodoro_Technique) to increase my focus and just to do a fun little electronics project!
 
-<div align="right">
-<img src=https://github.com/user-attachments/assets/e3aec559-6733-4e56-8947-ccb84cb1dfb6>
+<img align="right" width="100" height="100" src=https://github.com/user-attachments/assets/e3aec559-6733-4e56-8947-ccb84cb1dfb6>
 
 
 
