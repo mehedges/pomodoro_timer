@@ -18,3 +18,8 @@ In this project, I utilized (but changed up) code from [phenoxyethanol on Instru
 
 ## Schematic
 ![image_2024-07-31_154217613](https://github.com/user-attachments/assets/afd917fc-f667-40e2-a526-4a86cf7d2591)
+
+## Notes
+- Depending on the Arduino Nano that you have, there may be issues with writing the code to the device (which is what happened to me). In the case that happens, in the Arduino IDE, go to Tools > Processor > ATmega328p (Old Bootloader)
+- The code was written with inverted LED logic, since the LEDs are connected to 5V > LED > resistor > pin (instead of ground).
+- Thanks for reading! :)
