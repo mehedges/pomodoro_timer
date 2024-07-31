@@ -8,6 +8,7 @@ In this project, I utilized (but changed up) code from [phenoxyethanol on Instru
 ## Parts Used
 |     Part      |   Quantity    |
 | ------------- | ------------- |
+| Arduino Nano  |     1         |
 | LCD Screen (16x2) |     1     |
 | Passive Buzzer |     1        |
 | Tactile Switch |     1        |
